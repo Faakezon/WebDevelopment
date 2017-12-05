@@ -1,0 +1,37 @@
+<html>
+<head></head>
+
+<body>
+
+<h1>Rusty Steele</h1>
+
+<p>
+Hi, I´m a dog. Woof!
+</p>
+
+<p>
+<img src:"https://s7d2.scene7.com/is/image/PetSmart/PB1201_STORY_CARO-Authority-HealthyOutside-DOG-20160818?$PB1201$">
+</p>
+
+<p>
+<h2>
+Some of my favourite places:
+</h2>
+
+<p>
+
+<ul> 
+	<li>The Beach</li>
+	<li>The dog park</li>
+	<li>The fire hydrant</li>
+</ul>
+
+</p>
+
+</p>
+
+Make sure to follow me on <a href:"http://instagram.com">Instagram</a>
+
+</body>
+
+</html>
